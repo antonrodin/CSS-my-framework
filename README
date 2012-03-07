@@ -1,0 +1,9 @@
+Very simple and basic CSS Framework:
+
+1. General Settings for CrossBrowsing
+2. Reset all tags
+3. A bunch of usefull classes like .h-margin {margin: 0 auto;}
+4. Little CSS 3.0
+5. Minified production global stylesheet.
+
+And I guess nothing more, The size is about 2Kb or less.
