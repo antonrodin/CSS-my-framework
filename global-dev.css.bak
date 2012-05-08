@@ -43,6 +43,7 @@ p, ul, ol { padding: 0 0 20px 0; }
 ul, ol { padding: 0 0 20px 40px; }
 blockquote { margin: 20px; padding: 20px 20px 0 20px; }
 small { font-size: 14px; }
+img { }
 sup { position: relative; bottom: 5px; vertical-align: baseline; }
 sub { position: relative; bottom: -2px; vertical-align: baseline; }
 abbr { cursor: help; letter-spacing: 1px; border-bottom: 1px dashed; }
